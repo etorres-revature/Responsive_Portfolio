@@ -12,3 +12,43 @@ body {
     font-size: 24px;
     font-weight: 650;
 }
+
+div[class="jumbotron card"] {
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../assets/images/hero_image.jpg");
+    height: 75%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.display-4 {
+    color: rgb(240, 11, 171);
+    text-align: center;
+}
+
+.lead {
+    color: white;
+    text-align: center;
+}
+
+#myName {
+    color:white;
+    font-weight: 650;
+    text-decoration: underline;
+}
+
+.my-4 {
+    background-color: sienna;
+}
+
+#jumbo-p {
+    color: rgb(174, 218, 17);
+    text-align: center;
+}
+
+a[class="btn btn-secodaary btn-lg"] {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
