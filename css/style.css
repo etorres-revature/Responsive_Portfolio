@@ -1,0 +1,14 @@
+body {
+    background-image: url("../assets/images/background.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+}
+
+.navbar-brand {
+    background-color: rgb(25, 216, 25);
+    text-decoration-color: pink;
+    font-size: 24px;
+    font-weight: 650;
+}

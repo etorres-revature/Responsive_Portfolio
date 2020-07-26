@@ -1,44 +1,124 @@
 <!DOCTYPE html>
 <html lang="en-us">
-    <head>
-        <link rel="icon" type="image/png" href="./assets/images/contact.png" />
-        <title>Eric D. Torres Contact</title>
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-        <link rel="stylesheet" type="text/css" href="./css/style.css" />
-    </head>
-    <body>
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-            <a class="navbar-brand" href="#">Navbar</a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-              <span class="navbar-toggler-icon"></span>
-            </button>
-          
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
-              <ul class="navbar-nav mr-auto">
-                <li class="nav-item active">
-                  <a class="nav-link" href="./index.html">Home <span class="sr-only">Home</span></a>
+
+<head>
+    <link rel="icon" type="image/png" href="./assets/images/contact.png" />
+    <title>Eric D. Torres Contact</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="./css/style.css" />
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <a class="navbar-brand" href="#">Eric D. Torres</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav w-100">
+                <li class="nav-item active ml-auto">
+                    <a class="nav-link" href="./index.html">Home <span class="sr-only">Home</span></a>
                 </li>
                 <li class="nav-item dropdown">
-                  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Dropdown
-                  </a>
-                  <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <a class="dropdown-item" href="./about_me.html">About Me</a>
-                    <a class="dropdown-item" href="./portfolio.html">Portfolio</a>
-                    <div class="dropdown-divider"></div>
-                    <a class="dropdown-item" href="./contact.html">Contact</a>
-                  </div>
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                        data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Dropdown
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="./about_me.html">About Me</a>
+                        <a class="dropdown-item" href="./portfolio.html">Portfolio</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="./contact.html">Contact</a>
+                    </div>
                 </li>
-              </ul>
-              <!--<form class="form-inline my-2 my-lg-0">
+            </ul>
+            <!--<form class="form-inline my-2 my-lg-0">
                 <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
                 <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
               </form> -->
-            </div>
-          </nav>
+        </div>
+    </nav>
 
-          <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-          <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-          <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-    </body>
+    <!-- contact form reporduced from https://bootstraptemple.com/p/how-to-build-a-working-bootstrap-contact-form -->
+</br>
+</br>
+    <div class="container ml-auto">
+        <h1>CONTACT</h1>
+        <hr>
+        <form id="contact-form" method="post" role="form">
+            <div class="controls">
+                <div class="row">
+                    <div class="col-sm-4">
+                        <div class="form-group">
+                            <label for="form_firstname">First name:</label>
+                            <input id="form_firstname" type="text" name="name" class="form-control"
+                                placeholder="Enter first name here" required="required">
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="form-group">
+                            <label for="form_lastname">Last name:</label>
+                            <input id="form_lastname" type="test" name="surname" class="form-control"
+                                placeholder="Enter last name here" require="required">
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-4">
+                        <div class="form-group">
+                            <label for="form_email">E-mail address:</label>
+                            <input id="form_email" type="email" name="email" class="form-control"
+                                placeholder="Please enter e-mail address" required="required">
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="form-group">
+                            <label for="form_telephone">Telephone:</label>
+                            <input id="form_telephone" type="telephone" name="telephone" class="form-control"
+                                placeholder="Please enter telephone number" required="required">
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-8">
+                        <div class="form group">
+                            <label for="form_message">Enter a brief message: </label>
+                            <textarea id="form_message" name="message" class="form-control" rows="6"
+                                required="required"></textarea>
+                        </div>
+                    </div>
+                    </br>
+                    </br>
+                    </br>
+                    <div class="col-sm-8">
+                        <input type="submit" class="btn-succes btn-send" value="Submit">
+                    </div>
+                </div>
+                </br>
+                <div class="row">
+                    <div class="col-md-8">
+                        <p class="text-muted">
+                            <strong>All fields required to submit contact form.</strong>
+                        </p>
+                    </div>
+                </div>
+
+            </div>
+        </form>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+        integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+        integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+        crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+        integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+        crossorigin="anonymous"></script>
+</body>
+
 </html>
