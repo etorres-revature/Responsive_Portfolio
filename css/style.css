@@ -96,3 +96,37 @@ color: orange;
 #s {
     color: violet;
 }
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+    al
+}
+
+.fa:hover {
+    opacity: .65;
+}
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+}
+
+.fa-github {
+    background: #2c4762;
+    color: white;
+}
+
+#copyright {
+    text-align: center;
+}
+
+#social-media {
+    text-align: center;
+}
+
+#e_mail {
+    text-align: center
+}
