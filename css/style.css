@@ -112,11 +112,13 @@ color: orange;
 .fa-linkedin {
     background: #007bb5;
     color: white;
+    margin-right: 5px;
 }
 
 .fa-github {
     background: #2c4762;
     color: white;
+    margin-left: 5px;
 }
 
 #copyright {
@@ -124,6 +126,10 @@ color: orange;
 }
 
 #social-media {
+    text-align: center;
+}
+
+h3 {
     text-align: center;
 }
 
