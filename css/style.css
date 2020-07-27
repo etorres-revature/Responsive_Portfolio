@@ -36,6 +36,7 @@ div[class="jumbotron card"] {
     color:white;
     font-weight: 650;
     text-decoration: underline;
+    text-decoration-color: black;
 }
 
 .my-4 {
@@ -51,4 +52,47 @@ a[class="btn btn-secodaary btn-lg"] {
     text-align: center;
     display: block;
     margin: 0 auto;
+}
+
+#e {
+    color: maroon;
+}
+#r {
+color: red;
+}
+
+#i {
+color: orangered;
+}
+
+#c {
+color: orange;
+}
+
+#d {
+    color: gold;
+}
+
+#t {
+    color: green;
+}
+
+#o {
+    color: darkgreen;
+}
+
+#r2 {
+    color: blue;
+}
+
+#r3 {
+    color: purple;
+}
+
+#e2 {
+    color: darkorchid;
+}
+
+#s {
+    color: violet;
 }
