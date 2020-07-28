@@ -43,6 +43,10 @@ div[class="jumbotron jumbotron-fluid card px-4"] {
     background-color: sienna;
 }
 
+hr {
+    background-color: teal; 
+}
+
 #jumbo-p {
     color: rgb(174, 218, 17);
     text-align: center;
