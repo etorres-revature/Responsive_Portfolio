@@ -140,3 +140,8 @@ h3 {
 #spacer {
     height: 150px;
 }
+
+#cypress_dusk {
+    height: 250px;
+    width: 250px;
+}
