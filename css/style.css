@@ -1,5 +1,5 @@
 body {
-    background-image: url("../assets/images/background.jpg");
+    background-image: url("../assets/images/background/background.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -14,7 +14,7 @@ body {
 }
 
 div[class="jumbotron jumbotron-fluid card px-4"] {
-    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../assets/images/hero_image.jpg");
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../assets/images/jumbotron/hero_image.jpg");
     height: 75%;
     background-position: center;
     background-repeat: no-repeat;
@@ -147,6 +147,6 @@ h3 {
 }
 
 img[clas="img-fluid m-2"] {
-    max-height: 250px;
-    max-width: 250px;
+    height: 250px;
+    width: 250px;
 }
