@@ -146,7 +146,7 @@ h3 {
     width: 250px;
 }
 
-img[clas="img-fluid m-2"] {
-    height: 250px;
-    width: 250px;
+img[class="img-fluid m-2"] {
+    height: 300px;
+    width: 350px;
 }
