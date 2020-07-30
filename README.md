@@ -40,7 +40,7 @@ Check out the [portfolio](https://etorres-revature.github.io/Responsive_Portfoli
 
 HTML 5 is a markup language used for structuring and presenting content on the World Wide Web.  The goals are to improve the language with support for the latest multimedia and other new features; to keep the language both easilty readable by humans and consistnetly understood by computers and devices ... ; and to remain back-ward compatible to older software.  Many new symantic features are included.
 
-Content borrowed from this [page](en.wikipedia.org/wiki/HTML5).
+Content borrowed from this [page](https://en.wikipedia.org/wiki/HTML5).
 
 #### CSS
 
@@ -48,7 +48,7 @@ Cascading Style Sheets (CSS) is a style sheet language used for describing the p
 
 Separation of formating and contnt also makes it feasible to present the same markup page in different styles for differnt rendering methods, such as on-screen, in print, by voice, and on Braille-based tactivle devices.  
 
-Content borrowed from this [page] (en.wikipedia.org/wiki/Cascading_Style_Sheets).
+Content borrowed from this [page] (https://en.wikipedia.org/wiki/Cascading_Style_Sheets).
 
 #### Bootstrap 4
 
