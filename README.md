@@ -1,4 +1,5 @@
 <div class=text-justify>
+<div class=pull-left>
 # Responsive_Portfolio
 
 ## Why Responsive Web Design?
@@ -78,4 +79,5 @@ This product is unlicensed.
 <a name="footnote1">[footnote 1](https://blog.hubspot.com/marketing/responsive-design-list)</a>
 
 <a name="footnote2">[footnote 2](https://www.nngroup.com/articles/responsive-web-design-definition/)</a>
+</div>
 </div>
