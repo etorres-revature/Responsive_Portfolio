@@ -10,9 +10,8 @@ In responsive design, page elements reconfigure as the viewport (or, screen size
 <p align="justify">
 This saves time (and, time = money) because front-end developers only have to create a single web page.  Then the principles of responsive web design can be utilized to create a unique web design for wide-screen monitors, desktops, laptops, tablets, and phones of any and all sizes. <a href="#footnote2"><sup>[2]</sup></a>  All from a single codebasse!!
 </p>
-</br>
 Put into its most simplest terms:
-
+</br>
 > Responsive web design creates this user-experience: :grin: </br>
 > Without responsive web design you get this user-experience: :nauseated_face:
 
