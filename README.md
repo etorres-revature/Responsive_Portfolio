@@ -56,7 +56,7 @@ Bootstrtap 4 is a free and open-source CSS framework directed at responsive, mob
 
 Content borrowed form this [page](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)).
 
-##### Elements
+##### Bootstrap 4 Style Elements
 
 | Page Name | Bootstrap 4 Elements |
 |-----------|----------------------|
@@ -65,6 +65,9 @@ Content borrowed form this [page](https://en.wikipedia.org/wiki/Bootstrap_(front
 |portfolio.html | navbar; container; card; row; column; image; footer |
 |contact.html | navbar; container; row; column; form; form-controls; button; footer |
 
+## Author
+
+Content and design created by Eric D. Torres.  The author can be reached at etorresnotary@gmail.com. 
 
 
 ###### License
