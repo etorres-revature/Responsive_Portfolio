@@ -48,13 +48,24 @@ Cascading Style Sheets (CSS) is a style sheet language used for describing the p
 
 Separation of formating and contnt also makes it feasible to present the same markup page in different styles for differnt rendering methods, such as on-screen, in print, by voice, and on Braille-based tactivle devices.  
 
-Content borrowed from this [page] (https://en.wikipedia.org/wiki/Cascading_Style_Sheets).
+Content borrowed from this [page](https://en.wikipedia.org/wiki/Cascading_Style_Sheets).
 
 #### Bootstrap 4
 
 Bootstrtap 4 is a free and open-source CSS framework directed at responsive, mobile-first front-end web development.  It contains CSS and (optionally) JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components.  
 
 Content borrowed form this [page](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)).
+
+##### Elements
+
+| Page Name | Bootstrap 4 Elements |
+|-----------|----------------------|
+|index.html | navbar; container, card, jumbotron, card, footer |
+|about_me.html | navbar; conatiner, image (float-left), paragraph (justify-text), footer |
+|portfolio.html | navbar; container; card; row; column; image; footer |
+|contact.html | navbar; container; row; column; form; form-controls; button; footer |
+
+
 
 ###### License
 
