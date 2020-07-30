@@ -1,6 +1,6 @@
 # Responsive_Portfolio
 
-##Why Responsive Web Design?
+## Why Responsive Web Design?
 
 As more and more people access the internet from a growing variety of devices, front-end web developers must master the skills of responsive web design to ensure a consistent user-experience across multiple screen sizes.
 
@@ -10,5 +10,35 @@ This save time (and, time = money) because front-end developers only have to cre
 
 Put into its most simplest terms:
 
-> Responsive web design creates this user-experience: :grin:
-> Without responsive web design you get this user-experience: :nauseated_fac:
+> Responsive web design creates this user-experience: :grin: </br>
+> Without responsive web design you get this user-experience: :nauseated_face:
+
+### The Portfolio
+
+This portfolio conists of the following:
+
+1. HTML files;
+    * index.html
+    * about_me.html
+    * portfolio.html
+    contact.html
+1. CSS folder;
+     * style.css;
+1. Assets folder
+    * Images folder
+        * about_me (contains image used on about_me.html)
+        * background (contains background image used on all HTML pages)
+        * famicon (contains famicons used on each HTML page)
+        * jumbotron (contains image used in Jumbotron)
+        * portfolio_images (contains images used on portfolio.html)
+
+### Technologies Used
+
+#### HTML5
+
+
+
+
+###### License
+
+This product is unlicensed.
