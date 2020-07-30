@@ -58,7 +58,7 @@
         <div class="col-10 w-75 bg-warning card" style="border-color: red">
             <h1>CONTACT</h1>
             <hr>
-            <form id="contact-form" method="post" role="form">
+            <form id="contact-form" method="post">
                 <div class="controls">
                     <div class="row">
                         <div class="col-sm-5">
@@ -71,8 +71,8 @@
                         <div class="col-sm-5">
                             <div class="form-group">
                                 <label for="form_lastname">Last name:</label>
-                                <input id="form_lastname" type="test" name="surname" class="form-control"
-                                    placeholder="Enter last name here" require="required">
+                                <input id="form_lastname" type="text" name="surname" class="form-control"
+                                    placeholder="Enter last name here" required="required">
                             </div>
                         </div>
                     </div>
@@ -87,7 +87,7 @@
                         <div class="col-sm-5">
                             <div class="form-group">
                                 <label for="form_telephone">Telephone:</label>
-                                <input id="form_telephone" type="telephone" name="telephone" class="form-control"
+                                <input id="form_telephone" type="tel" name="telephone" class="form-control"
                                     placeholder="Please enter telephone number" required="required">
                             </div>
                         </div>
@@ -100,13 +100,17 @@
                                     required="required"></textarea>
                             </div>
                         </div>
-                        </br>
-                        </br>
+                    </div>
+                    <div class="w-100" style="height: 8px"></div>
+                    <!-- </br> -->
+                    <!-- </br> -->
+                    <div class="row">
                         <div class="col-sm-10">
                             <button type="button" class="btn btn-danger">Submit</button>
                         </div>
                     </div>
-                    </br>
+                    <!-- </br> -->
+                    <div class="w-100" style="height: 12px"></div>
                     <div class="row">
                         <div class="col-sm-10">
                             <p class="text-muted">
