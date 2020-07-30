@@ -12,6 +12,7 @@ This saves time (and, time = money) because front-end developers only have to cr
 </p>
 Put into its most simplest terms:
 </br>
+
 > Responsive web design creates this user-experience: :grin: </br>
 > Without responsive web design you get this user-experience: :nauseated_face:
 
