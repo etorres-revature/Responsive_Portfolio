@@ -8,7 +8,7 @@ As more and more people access the internet from a growing variety of devices, f
 In responsive design, page elements reconfigure as the viewport (or, screen size) grows or shrinks.  A web page that displays as three-columns on a desktop may display as two-columns on a tablet or one-column on a smartphone.  Therefore, the same HTML code is delivered to each device; however, using CSS its appearance can be optimized for screen displays to rearrange the appearance of the page to fit the device on which it is being viewed. <a href="#footnote1"><sup>[1]</sup></a>
 </p>
 <p align="justify">
-This saves time (and, time = money) because front-end developers only have to create a single web page.  Then the principles of responsive web design can be utilized to create a unique web design for wide-screen monitors, desktops, laptops, tablets, and phones of any and all sizes. <a href="#footnote2"><sup>[2]</sup></a>  All from a single code-base!!
+This saves time (and, :alarm_clock: = :heavy_dollar_sign:) because front-end developers only have to create a single web page.  Then the principles of responsive web design can be utilized to create a unique web design for wide-screen monitors, desktops, laptops, tablets, and phones of any and all sizes. <a href="#footnote2"><sup>[2]</sup></a>  All from a single code-base!!
 </p>
 Put into its most simplest terms:
 </br>
@@ -75,9 +75,9 @@ Content borrowed form this [page](https://en.wikipedia.org/wiki/Bootstrap_(front
 |portfolio.html | navbar; container; card; row; column; image; footer |
 |contact.html | navbar; container; row; column; form; form-controls; button; footer |
 
-## Author
+## Author :sunglasses:
 
-Content and design created by Eric D. Torres.  The author can be reached at etorresnotary@gmail.com. 
+Content and design created by Eric D. Torres "green_heart:.  The author can be reached at etorresnotary@gmail.com. 
 
 
 ###### License
