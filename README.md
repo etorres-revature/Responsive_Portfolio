@@ -77,7 +77,7 @@ Content borrowed form this [page](https://en.wikipedia.org/wiki/Bootstrap_(front
 
 ## Author :sunglasses:
 
-Content and design created by Eric D. Torres "green_heart:.  The author can be reached at etorresnotary@gmail.com. 
+Content and design created by :green_heart: Eric D. Torres :green_heart:.  The author can be reached at etorresnotary@gmail.com. 
 
 
 ###### License
