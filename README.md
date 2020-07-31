@@ -8,7 +8,7 @@ As more and more people access the internet from a growing variety of devices, f
 In responsive design, page elements reconfigure as the viewport (or, screen size) grows or shrinks.  A web page that displays as three-columns on a desktop may display as two-columns on a tablet or one-column on a smartphone.  Therefore, the same HTML code is delivered to each device; however, using CSS its appearance can be optimized for screen displays to rearrange the appearance of the page to fit the device on which it is being viewed. <a href="#footnote1"><sup>[1]</sup></a>
 </p>
 <p align="justify">
-This saves time (and, time = money) because front-end developers only have to create a single web page.  Then the principles of responsive web design can be utilized to create a unique web design for wide-screen monitors, desktops, laptops, tablets, and phones of any and all sizes. <a href="#footnote2"><sup>[2]</sup></a>  All from a single codebasse!!
+This saves time (and, time = money) because front-end developers only have to create a single web page.  Then the principles of responsive web design can be utilized to create a unique web design for wide-screen monitors, desktops, laptops, tablets, and phones of any and all sizes. <a href="#footnote2"><sup>[2]</sup></a>  All from a single code-base!!
 </p>
 Put into its most simplest terms:
 </br>
@@ -42,7 +42,7 @@ Check out the [portfolio](https://etorres-revature.github.io/Responsive_Portfoli
 #### HTML5
 
 <p align="justify">
-HTML 5 is a markup language used for structuring and presenting content on the World Wide Web.  The goals are to improve the language with support for the latest multimedia and other new features; to keep the language both easilty readable by humans and consistnetly understood by computers and devices; and to remain back-ward compatible to older software.  Many new symantic features are included.
+HTML 5 is a markup language used for structuring and presenting content on the World Wide Web.  The goals are to improve the language with support for the latest multimedia and other new features; to keep the language both easilty readable by humans and consistnetly understood by computers and devices; and to remain backward compatible to older software.  Many new symantic features are included.
 </p>
 
 Content borrowed from this [page](https://en.wikipedia.org/wiki/HTML5).
@@ -50,7 +50,7 @@ Content borrowed from this [page](https://en.wikipedia.org/wiki/HTML5).
 #### CSS
 
 <p align="justify">
-Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language (such as HTML5).  CSS is designed to enable the separation of presentation and content, including layout, colors, and fonts.  This separation improves content accessibility to provide more flexibility and conttrol in the specificatio nof presntation characteristics, enabling multiple web pages to share formatting by specifying relevant CSS in a separate file, which redduces complexity and repetitioin in the structural content (HTML) as well as enabling the file to be cached to improve the page load speed between the pages that share the file and its formatting.
+Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language (such as HTML5).  CSS is designed to enable the separation of presentation and content, including layout, colors, and fonts.  This separation improves content accessibility to provide more flexibility and control in the specificatio nof presntation characteristics, enabling multiple web pages to share formatting by specifying relevant CSS in a separate file, which redduces complexity and repetitioin in the structural content (HTML) as well as enabling the file to be cached to improve the page load speed between the pages that share the file and its formatting.
 </p>
 <p align="justify">
 Separation of formating and contnt also makes it feasible to present the same markup page in different styles for differnt rendering methods, such as on-screen, in print, by voice, and on Braille-based tactivle devices.  
@@ -71,7 +71,7 @@ Content borrowed form this [page](https://en.wikipedia.org/wiki/Bootstrap_(front
 | Page Name | Bootstrap 4 Elements |
 |-----------|----------------------|
 |index.html | navbar; container, card, jumbotron, card, footer |
-|about_me.html | navbar; conatiner, image (float-left), paragraph (justify-text), footer |
+|about_me.html | navbar; container, image (float-left), paragraph (justify-text), footer |
 |portfolio.html | navbar; container; card; row; column; image; footer |
 |contact.html | navbar; container; row; column; form; form-controls; button; footer |
 
