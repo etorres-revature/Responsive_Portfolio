@@ -45,7 +45,7 @@ Check out the [portfolio](https://etorres-revature.github.io/Responsive_Portfoli
 HTML 5 is a markup language used for structuring and presenting content on the World Wide Web.  The goals are to improve the language with support for the latest multimedia and other new features; to keep the language both easilty readable by humans and consistnetly understood by computers and devices; and to remain backward compatible to older software.  Many new symantic features are included.
 </p>
 
-Content borrowed from this [page](https://en.wikipedia.org/wiki/HTML5).
+Content borrowed from [this page](https://en.wikipedia.org/wiki/HTML5).
 
 #### CSS
 
@@ -56,7 +56,7 @@ Cascading Style Sheets (CSS) is a style sheet language used for describing the p
 Separation of formating and contnt also makes it feasible to present the same markup page in different styles for differnt rendering methods, such as on-screen, in print, by voice, and on Braille-based tactivle devices.  
 </p>
 
-Content borrowed from this [page](https://en.wikipedia.org/wiki/Cascading_Style_Sheets).
+Content borrowed from [this page](https://en.wikipedia.org/wiki/Cascading_Style_Sheets).
 
 #### Bootstrap 4
 
@@ -64,7 +64,7 @@ Content borrowed from this [page](https://en.wikipedia.org/wiki/Cascading_Style_
 Bootstrtap 4 is a free and open-source CSS framework directed at responsive, mobile-first front-end web development.  It contains CSS and (optionally) JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components.  
 </p>
 
-Content borrowed form this [page](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)).
+Content borrowed from [this page](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)).
 
 ##### Bootstrap 4 Style Elements
 
