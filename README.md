@@ -46,7 +46,7 @@ This portfolio consists of the following:
 HTML 5 is a markup language used for structuring and presenting content on the World Wide Web.  The goals are to improve the language with support for the latest multimedia and other new features; to keep the language both easily readable by humans and consistnetly understood by computers and devices; and to remain backward compatible to older software.  Many new symantic features are included.
 </p>
 
-HTML5 content borrowed from <a target="-blank" rel="noopener noreferrer">[this page](https://en.wikipedia.org/wiki/HTML5).</a>
+HTML5 content borrowed from <a target="_blank" rel="noopener noreferrer">[this page](https://en.wikipedia.org/wiki/HTML5).</a>
 
 #### CSS
 
@@ -57,7 +57,7 @@ Cascading Style Sheets (CSS) is a stylesheet language used for describing the pr
 Separation of formating and content also makes it feasible to present the same markup page in different styles for differnt rendering methods, such as on-screen, in print, by voice, and on Braille-based tactivle devices.  
 </p>
 
-CSS content borrowed from <a target="-blank" rel="noopener noreferrer">[this page](https://en.wikipedia.org/wiki/Cascading_Style_Sheets).</a>
+CSS content borrowed from <a target="_blank" rel="noopener noreferrer">[this page](https://en.wikipedia.org/wiki/Cascading_Style_Sheets).</a>
 
 #### Bootstrap 4
 
@@ -65,7 +65,7 @@ CSS content borrowed from <a target="-blank" rel="noopener noreferrer">[this pag
 Bootstrtap 4 is a free and open-source CSS framework directed at responsive, mobile-first front-end web development.  It contains CSS and (optionally) JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components.  
 </p>
 
-Bootstrap 4 content borrowed from <a target="-blank" rel="noopener noreferrer">[this page](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)).</a>
+Bootstrap 4 content borrowed from <a target="_blank" rel="noopener noreferrer">[this page](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)).</a>
 
 ##### Bootstrap 4 Style Elements
 
