@@ -16,6 +16,9 @@ Put into its most simplest terms:
 > Responsive web design creates this user-experience: :grin: </br>
 > Without responsive web design you get this user-experience: :nauseated_face:
 
+Check out the [portfolio](https://etorres-revature.github.io/Responsive_Portfolio/).
+
+
 ### The Portfolio
 
 This portfolio consists of the following:
@@ -34,8 +37,6 @@ This portfolio consists of the following:
         * famicon (contains famicons used on each HTML page)
         * jumbotron (contains image used in Jumbotron)
         * portfolio_images (contains images used on portfolio.html)
-
-Check out the [portfolio](https://etorres-revature.github.io/Responsive_Portfolio/).
 
 ### Technologies Used
 
