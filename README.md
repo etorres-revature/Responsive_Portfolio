@@ -27,7 +27,7 @@ This portfolio consists of the following:
     * index.html
     * about_me.html
     * portfolio.html
-    contact.html
+    * contact.html
 1. CSS folder;
      * style.css;
 1. Assets folder
