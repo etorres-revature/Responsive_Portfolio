@@ -1,129 +1,194 @@
 <!DOCTYPE html>
 <html lang="en-us">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" type="image/png" href="./assets/images/favicon/contact.png" />
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="icon"
+      type="image/png"
+      href="./assets/images/favicon/contact.png"
+    />
     <title>Eric D. Torres Contact</title>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
-        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+      integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+      crossorigin="anonymous"
+    />
     <link rel="stylesheet" type="text/css" href="./css/style.css" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-</head>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+  </head>
 
-<body>
+  <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-        <a class="navbar-brand" href="https://stardewvalley.net" target="_blank" rel="noopener noreferrer">Eric D. Torres</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
-            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
+      <a
+        class="navbar-brand"
+        href="https://stardewvalley.net"
+        target="_blank"
+        rel="noopener noreferrer"
+        >Eric D. Torres</a
+      >
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-toggle="collapse"
+        data-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
 
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <div class="ml-auto">
-                <ul class="navbar-nav w-100">
-                    <li class="nav-item active ml-auto">
-                        <a class="nav-link" href="./index.html">Home <span class="sr-only">Home</span></a>
-                    </li>
-                    <li class="nav-item active ml-auto">
-                        <a class="nav-link" href="https://etorres-revature.github.io/JavaScript_Code_Quiz_Challenge/">JS Code Quiz<span class="sr-only">JS Code Quiz</span></a>
-                    </li>
-                    <li class="nav-item dropdown ml-auto">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
-                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            More Pages
-                        </a>
-                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item" href="./about_me.html">About Me</a>
-                            <a class="dropdown-item" href="./portfolio.html">Portfolio</a>
-                            <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" href="./contact.html">Contact</a>
-                        </div>
-                    </li>
-                </ul>
-            </div>
-            <!--<form class="form-inline my-2 my-lg-0">
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <div class="ml-auto">
+          <ul class="navbar-nav w-100">
+            <li class="nav-item active ml-auto">
+              <a class="nav-link" href="./index.html"
+                >Home <span class="sr-only">Home</span></a
+              >
+            </li>
+            <li class="nav-item active ml-auto">
+              <a
+                class="nav-link"
+                href="https://etorres-revature.github.io/JavaScript_Code_Quiz_Challenge/"
+                >JS Code Quiz<span class="sr-only">JS Code Quiz</span></a
+              >
+            </li>
+            <li class="nav-item dropdown ml-auto">
+              <a
+                class="nav-link dropdown-toggle"
+                href="#"
+                id="navbarDropdown"
+                role="button"
+                data-toggle="dropdown"
+                aria-haspopup="true"
+                aria-expanded="false"
+              >
+                More Pages
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="./about_me.html">About Me</a>
+                <a class="dropdown-item" href="./portfolio.html">Portfolio</a>
+                <div class="dropdown-divider"></div>
+                <a class="dropdown-item" href="./contact.html">Contact</a>
+              </div>
+            </li>
+          </ul>
+        </div>
+        <!--<form class="form-inline my-2 my-lg-0">
                 <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
                 <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
               </form> -->
-        </div>
+      </div>
     </nav>
 
     <!-- </br> -->
     <!-- </br> -->
 
-    <div class="w-100" style="height: 75px"></div>
+    <div class="w-100" style="height: 75px;"></div>
 
     <div class="container">
-        <div class="col-1"></div>
-        <!-- contact form reporduced from https://bootstraptemple.com/p/how-to-build-a-working-bootstrap-contact-form -->
-        <div class="col-10 w-75 bg-warning card" style="border-color: red">
-            <h1>CONTACT</h1>
-            <hr>
-            <form id="contact-form" method="post">
-                <div class="controls">
-                    <div class="row">
-                        <div class="col-sm-5">
-                            <div class="form-group">
-                                <label for="form_firstname">First name:</label>
-                                <input id="form_firstname" type="text" name="name" class="form-control"
-                                    placeholder="Enter first name here" required="required">
-                            </div>
-                        </div>
-                        <div class="col-sm-5">
-                            <div class="form-group">
-                                <label for="form_lastname">Last name:</label>
-                                <input id="form_lastname" type="text" name="surname" class="form-control"
-                                    placeholder="Enter last name here" required="required">
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-sm-5">
-                            <div class="form-group">
-                                <label for="form_email">E-mail address:</label>
-                                <input id="form_email" type="email" name="email" class="form-control"
-                                    placeholder="Please enter e-mail address" required="required">
-                            </div>
-                        </div>
-                        <div class="col-sm-5">
-                            <div class="form-group">
-                                <label for="form_telephone">Telephone:</label>
-                                <input id="form_telephone" type="tel" name="telephone" class="form-control"
-                                    placeholder="Please enter telephone number" required="required">
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-sm-10">
-                            <div class="form group">
-                                <label for="form_message">Enter a brief message: </label>
-                                <textarea id="form_message" name="message" class="form-control" rows="6"
-                                    required="required"></textarea>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="w-100" style="height: 8px"></div>
-                    <!-- </br> -->
-                    <!-- </br> -->
-                    <div class="row">
-                        <div class="col-sm-10">
-                            <button type="button" class="btn btn-danger">Submit</button>
-                        </div>
-                    </div>
-                    <!-- </br> -->
-                    <div class="w-100" style="height: 12px"></div>
-                    <div class="row">
-                        <div class="col-sm-10">
-                            <p class="text-muted">
-                                <strong>All fields required to submit contact form.</strong>
-                            </p>
-                        </div>
-                    </div>
+      <div class="col-1"></div>
+      <!-- contact form reporduced from https://bootstraptemple.com/p/how-to-build-a-working-bootstrap-contact-form -->
+      <div class="col-10 w-75 bg-warning card" style="border-color: red;">
+        <h1>CONTACT</h1>
+        <hr />
+        <form id="contact-form" method="post">
+          <div class="controls">
+            <div class="row">
+              <div class="col-sm-5">
+                <div class="form-group">
+                  <label for="form_firstname">First name:</label>
+                  <input
+                    id="form_firstname"
+                    type="text"
+                    name="name"
+                    class="form-control"
+                    placeholder="Enter first name here"
+                    required="required"
+                  />
                 </div>
-            </form>
-        </div>
+              </div>
+              <div class="col-sm-5">
+                <div class="form-group">
+                  <label for="form_lastname">Last name:</label>
+                  <input
+                    id="form_lastname"
+                    type="text"
+                    name="surname"
+                    class="form-control"
+                    placeholder="Enter last name here"
+                    required="required"
+                  />
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-sm-5">
+                <div class="form-group">
+                  <label for="form_email">E-mail address:</label>
+                  <input
+                    id="form_email"
+                    type="email"
+                    name="email"
+                    class="form-control"
+                    placeholder="Please enter e-mail address"
+                    required="required"
+                  />
+                </div>
+              </div>
+              <div class="col-sm-5">
+                <div class="form-group">
+                  <label for="form_telephone">Telephone:</label>
+                  <input
+                    id="form_telephone"
+                    type="tel"
+                    name="telephone"
+                    class="form-control"
+                    placeholder="Please enter telephone number"
+                    required="required"
+                  />
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-sm-10">
+                <div class="form group">
+                  <label for="form_message">Enter a brief message: </label>
+                  <textarea
+                    id="form_message"
+                    name="message"
+                    class="form-control"
+                    rows="6"
+                    required="required"
+                  ></textarea>
+                </div>
+              </div>
+            </div>
+            <div class="w-100" style="height: 8px;"></div>
+            <!-- </br> -->
+            <!-- </br> -->
+            <div class="row">
+              <div class="col-sm-10">
+                <button type="button" class="btn btn-danger">Submit</button>
+              </div>
+            </div>
+            <!-- </br> -->
+            <div class="w-100" style="height: 12px;"></div>
+            <div class="row">
+              <div class="col-sm-10">
+                <p class="text-muted">
+                  <strong>All fields required to submit contact form.</strong>
+                </p>
+              </div>
+            </div>
+          </div>
+        </form>
+      </div>
     </div>
 
     <!-- </br> -->
@@ -131,49 +196,72 @@
     <!-- </br> -->
     <!-- </br> -->
 
-    <div class="w-100" style="height: 75px"></div>
+    <div class="w-100" style="height: 75px;"></div>
 
-    <footer class="sticky-footer" style="display: contents; border-color: black; background-color: grey">
-        <div class="container">
-            <div class="row">
-                <div class="col">
-                    <h3>
-                        Visit me on social media:
-                    </h3>
-                </div>
-            </div>
-            <!-- footer social media classes and styling from https://www.w3schools.com/howto/howto_css_social_media_buttons.asp -->
-            <div class="row">
-                <div class="col" id="social-media">
-                    <a href="https://www.linkedin.com/in/ericdtorres/" class="fa fa-linkedin" target="_blank" rel="noopener noreferrer"></a>
-                    <a href="https://github.com/etorres-revature" class="fa fa-github" target="_blank" rel="noopener noreferrer"></a>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col">
-                    <p id="e_mail">E-mail: <a href="mailto:etorresnotary@gmail.com">etorresnotary@gmail.com</a> or use
-                        the <a href="./contact.html">CONTACT</a> page.</p>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col">
-                    <p id="copyright">
-                        &copy; 2020 Eric D. Torres Productions
-                    </p>
-                </div>
-            </div>
+    <footer
+      class="sticky-footer"
+      style="display: contents; border-color: black; background-color: grey;"
+    >
+      <div class="container">
+        <div class="row">
+          <div class="col">
+            <h3>
+              Visit me on social media:
+            </h3>
+          </div>
         </div>
+        <!-- footer social media classes and styling from https://www.w3schools.com/howto/howto_css_social_media_buttons.asp -->
+        <div class="row">
+          <div class="col" id="social-media">
+            <a
+              href="https://www.linkedin.com/in/ericdtorres/"
+              class="fa fa-linkedin"
+              target="_blank"
+              rel="noopener noreferrer"
+            ></a>
+            <a
+              href="https://github.com/etorres-revature"
+              class="fa fa-github"
+              target="_blank"
+              rel="noopener noreferrer"
+            ></a>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col">
+            <p id="e_mail">
+              E-mail:
+              <a href="mailto:etorresnotary@gmail.com"
+                >etorresnotary@gmail.com</a
+              >
+              or use the <a href="./contact.html">CONTACT</a> page.
+            </p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col">
+            <p id="copyright">
+              &copy; 2020 Eric D. Torres Productions
+            </p>
+          </div>
+        </div>
+      </div>
     </footer>
 
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
-        integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
-        crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
-        integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
-        crossorigin="anonymous"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
-        integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
-        crossorigin="anonymous"></script>
-</body>
-
+    <script
+      src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+      integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+      integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+      integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+      crossorigin="anonymous"
+    ></script>
+  </body>
 </html>
