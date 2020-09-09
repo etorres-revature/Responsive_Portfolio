@@ -1,4 +1,4 @@
-# [Responsive_Portfolio](https://etorres-revature.github.io/Responsive_Portfolio/)
+# [Responsive Portfolio](https://etorres-revature.github.io/Responsive_Portfolio/)
 
 ## Why Responsive Web Design?
 <p align="justify">
