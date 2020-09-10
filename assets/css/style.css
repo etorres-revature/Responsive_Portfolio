@@ -164,3 +164,9 @@ img[class="img-fluid m-0"] {
 /* .column-item {
   width: 50%;
 } */
+
+@media (min-width: 576px) {
+  .column-item {
+    width: 50%;
+  }
+}
