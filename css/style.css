@@ -156,3 +156,7 @@ img[class="img-fluid m-0"] {
   height: 250px;
   width: 250px;
 }
+
+.a-tag-portfolio {
+    display: block;
+}
