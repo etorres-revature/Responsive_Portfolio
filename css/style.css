@@ -1,143 +1,144 @@
 body {
-    background-image: url("../assets/images/background/background.jpg");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    height: 100%;
+  background-image: url("../assets/images/background/background.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100%;
 }
 
 .navbar-brand {
-    background-color: rgb(25, 216, 25);
-    text-decoration-color: pink;
-    font-size: 24px;
-    font-weight: 650;
+  background-color: rgb(25, 216, 25);
+  text-decoration-color: pink;
+  font-size: 24px;
+  font-weight: 650;
 }
 
 div[class="jumbotron jumbotron-fluid card px-4"] {
-    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../assets/images/jumbotron/hero_image.jpg");
-    height: 75%;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../assets/images/jumbotron/hero_image.jpg");
+  height: 75%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
 }
 
 .display-4 {
-    color: rgb(240, 11, 171);
-    text-align: center;
+  color: rgb(240, 11, 171);
+  text-align: center;
 }
 
 .lead {
-    color: white;
-    text-align: center;
+  color: white;
+  text-align: center;
 }
 
 #myName {
-    color:white;
-    font-weight: 650;
-    text-decoration: underline;
-    text-decoration-color: black;
+  color: white;
+  font-weight: 650;
+  text-decoration: underline;
+  text-decoration-color: black;
 }
 
 .my-4 {
-    background-color: sienna;
+  background-color: sienna;
 }
 
 hr {
-    background-color: teal; 
+  background-color: teal;
 }
 
 #jumbo-p {
-    color: rgb(174, 218, 17);
-    text-align: center;
+  color: rgb(174, 218, 17);
+  text-align: center;
 }
 
 a[class="btn btn-secodaary btn-lg"] {
-    text-align: center;
-    display: block;
-    margin: 0 auto;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
 }
 
 #e {
-    color: maroon;
+  color: maroon;
 }
 #r {
-color: red;
+  color: red;
 }
 
 #i {
-color: orangered;
+  color: orangered;
 }
 
 #c {
-color: orange;
+  color: orange;
 }
 
 #d {
-    color: gold;
+  color: gold;
 }
 
 #t {
-    color: green;
+  color: green;
 }
 
 #o {
-    color: darkgreen;
+  color: darkgreen;
 }
 
 #r2 {
-    color: blue;
+  color: blue;
 }
 
 #r3 {
-    color: purple;
+  color: purple;
 }
 
 #e2 {
-    color: darkorchid;
+  color: darkorchid;
 }
 
 #s {
-    color: violet;
+  color: violet;
 }
 
 .fa {
-    padding: 20px;
-    font-size: 30px;
-    text-align: center;
-    text-decoration: none;
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+  text-decoration: none;
 }
 
 .fa:hover {
-    opacity: .65;
+  opacity: 0.65;
 }
 
 .fa-linkedin {
-    background: #007bb5;
-    color: white;
-    margin-right: 5px;
+  background: #007bb5;
+  color: white;
+  margin-right: 5px;
 }
 
 .fa-github {
-    background: #2c4762;
-    color: white;
-    margin-left: 5px;
+  background: #2c4762;
+  color: white;
+  margin-left: 5px;
 }
 
 #copyright {
-    text-align: center;
+  text-align: center;
 }
 
 #social-media {
-    text-align: center;
+  text-align: center;
 }
 
 h3 {
-    text-align: center;
+  text-align: center;
 }
 
 #e_mail {
-    text-align: center
+  text-align: center;
 }
 
 /*
@@ -147,11 +148,11 @@ h3 {
 */
 
 #cypress_dusk {
-    height: 250px;
-    width: 250px;
+  height: 250px;
+  width: 250px;
 }
 
 img[class="img-fluid m-0"] {
-    height: 275oz;
-    width: 250px;
+  height: 250px;
+  width: 250px;
 }
