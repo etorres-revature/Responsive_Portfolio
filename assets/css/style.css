@@ -161,6 +161,11 @@ img[class="img-fluid m-0"] {
     display: block;
 }
 
+ul {
+  text-align: left;
+  list-style-position: inside;
+}
+
 /* .column-item {
   width: 50%;
 } */
