@@ -163,7 +163,7 @@ img[class="img-fluid m-0"] {
   width: 250px;
 }
 
-img[class="img-fluid mb-2"] {
+img[class="img-fluid"] {
   height: 250px;
   width: 250px;
   display: block;
@@ -173,9 +173,12 @@ img[class="img-fluid mb-2"] {
   display: block;
   color: white;
   background-color: magenta;
-  border-radius: 12px;
   padding: 5px;
-  margin-bottom: 8px;
+}
+
+a.fa.fa-github.image {
+  width: 100%;
+  margin: 0;
 }
 
 ul {
