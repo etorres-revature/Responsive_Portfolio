@@ -160,7 +160,7 @@ h3 {
 
 img[class="img-fluid m-0"] {
   height: 250px;
-  width: 250px;
+  width: 100%;
 }
 
 img[class="img-fluid"] {
