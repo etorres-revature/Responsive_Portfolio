@@ -131,6 +131,12 @@ a[class="btn btn-secodaary btn-lg"] {
   margin-left: 5px;
 }
 
+.portfolio-gihub {
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+}
+
 #copyright {
   text-align: center;
 }
